@@ -21,7 +21,7 @@ end
 
 def multiplication(num1, num2)
   num1 = 4
-  num2 = 3
+  num2 = 30
   sum = num1 * num2
  return sum
 end

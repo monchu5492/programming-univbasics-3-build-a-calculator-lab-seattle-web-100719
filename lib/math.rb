@@ -35,6 +35,6 @@ end
 
 def square_root(num)
 num = 81
-sum = Math.Sqrt(num)
+sum = math.sqrt(num)
 return sum
 end
